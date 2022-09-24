@@ -1,0 +1,32 @@
+{
+  "expo": {
+    "name": "Splitter",
+    "slug": "tip-calculator",
+    "description": "A basic tip calculator app. Built using a Frontend Mentor design.",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/favicon-32x32.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon-32x32.png"
+    }
+  }
+}
